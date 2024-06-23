@@ -10,9 +10,6 @@ This is a web application designed to help users learn the Ukrainian language. T
 - Flashcards for memorizing new words and phrases
 - User progress tracking and personalized learning paths
 
-## Getting Started
-
-To use the app, simply visit the website at [https://ukrainianlearning.com](https://ukrainianlearning.com) and create an account. You can then access the lessons, quizzes, and other resources.
 
 ## Contributing
 
